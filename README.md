@@ -25,8 +25,17 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-   Download Expo Go app for simulating ios from [AppStore](https://apps.apple.com/kr/app/expo-go/id982107779)  
-   
+   How to open xcode simulator
+   ```bash
+      open -a Simulator
+   ```
+   then, in expo project, start and press 'i' to open IOS simulator
+   ```bash
+      npx start
+   ```
+   ```bash
+      i
+   ```
    Download Android Studio for simulating android from [Adroid Studio](https://developer.android.com/studio)
   
 
